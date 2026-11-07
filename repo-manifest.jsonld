@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/tutorial-code/commit/b4d81b4fb5e4eae9c786f5a35cc731b5ede5faf4",
       "git:hexsha": "b4d81b4fb5e4eae9c786f5a35cc731b5ede5faf4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
