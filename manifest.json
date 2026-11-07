@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "tutorial-code",
+  "versions": [
+    {
+      "commit": "b4d81b4fb5e4eae9c786f5a35cc731b5ede5faf4",
+      "parsed_at": "2026-11-07T07:59:44.473330+00:00",
+      "filetree": "filetree/b4d81b4fb5e4eae9c786f5a35cc731b5ede5faf4.nq.gz",
+      "blobs": [
+        "blob/00ff76d00d8eaef1dd5b75dfcc6f337d7fa7932b.nq.gz",
+        "blob/9c070615be0aaa4f35b35a0317084f613238457f.nq.gz",
+        "blob/22d92ca03f72548b7b918c9b87b889474e68016a.nq.gz",
+        "blob/1b68a8e36faf87d57d310b4279e271724371c7fa.nq.gz",
+        "blob/07994a287286f03ecabd1b5f9227112a37ad67a2.nq.gz",
+        "blob/3720a46243097c5f2443354432e217612c268e17.nq.gz",
+        "blob/5d29217705c888ca0aee9e9bf3339b51963b10ff.nq.gz",
+        "blob/b4f0cba38faec7b2f7ac7e21c39bf8cde7106e16.nq.gz",
+        "blob/bc8371522911dae5c57fa15028a9c84eeb316709.nq.gz",
+        "blob/793994ed3f7d89e8d7757967ba14c260813dc687.nq.gz",
+        "blob/b1ffde0b37fb4ddedac284560ecf4b551cb6cf21.nq.gz",
+        "blob/b1febe4e2a7832b6f38c08e02ab79582a04d9159.nq.gz",
+        "blob/0524bf150ed06e57e9de696bd13962ef910d9340.nq.gz",
+        "blob/3705aa0af2e099bb6ad298554afebcecdd359303.nq.gz",
+        "blob/1e4520333a12aaa29caf4a55d6269b6272c4eefb.nq.gz",
+        "blob/edd222784ef71e70c7208722e8d9b50fa831d8b2.nq.gz",
+        "blob/b9d309d36e5bda0e344846e2dff901f9ce7bcfd4.nq.gz",
+        "blob/6e954ac74e47f73ceff931cf16194244e95f2210.nq.gz",
+        "blob/5e9ddfb2a92be5eecf9d638bff405f4064a3442c.nq.gz",
+        "blob/ca2da28f93f86cf53d6f8f2fb8a4a54cd75c4685.nq.gz",
+        "blob/aadbf3a3ef21ede969b874ff89ebc835933ae533.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
